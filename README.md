@@ -21,7 +21,7 @@ Short Form Algorithm:
 
 3. Capture texture information using Local Binary Patterns
 
-4. Flatten Image (and  to prepare data
+4. Flatten Image to prepare data 
 
 5. Normalise and scale data
 
