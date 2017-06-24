@@ -43,7 +43,7 @@ Results :
 1. ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png "Color Data Distribution")
 2. ![alt text](images/JointTextureColorDistribution_GMMTop_DPGMMBottom.png "Color + Texture Data Distribution")
 3. ![alt text](images/Results_OnlyColor.png "Segmentation (Only Color)")
-4. ![alt text](Results_JointTextureColor.png "Segmentation (Texture + Color")
+4. ![alt text](images/Results_JointTextureColor.png "Segmentation (Texture + Color")
 
 Conclusion:
 
