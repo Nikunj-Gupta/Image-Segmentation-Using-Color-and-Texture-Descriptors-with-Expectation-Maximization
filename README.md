@@ -38,6 +38,13 @@ Future Algorithm Extension:
 
 2. Optimise Code
 
+Results :
+
+1. ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png "Color Data Distribution")
+2. ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png "Color + Texture Data Distribution")
+3. ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png "Segmentation (Only Color)")
+4. ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png "Segmentation (Texture + Color")
+
 Conclusion:
 
 Clearly, adding texture information enhances the segmentation results. Adding more carefully designed features that capture correlations among data samples well is highly recommended.
