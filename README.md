@@ -40,10 +40,10 @@ Future Algorithm Extension:
 
 Results :
 
-1. ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png "Color Data Distribution")
-2. ![alt text](images/JointTextureColorDistribution_GMMTop_DPGMMBottom.png "Color + Texture Data Distribution")
-3. ![alt text](images/Results_OnlyColor.png "Segmentation (Only Color)")
-4. ![alt text](images/Results_JointTextureColor.png "Segmentation (Texture + Color")
+1. Color Data Distribution ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png)
+2. Color + Texture Data Distribution ![alt text](images/JointTextureColorDistribution_GMMTop_DPGMMBottom.png )
+3. Segmentation (Only Color) ![alt text](images/Results_OnlyColor.png")
+4. Segmentation (Texture + Color) ![alt text](images/Results_JointTextureColor.png")
 
 Conclusion:
 
