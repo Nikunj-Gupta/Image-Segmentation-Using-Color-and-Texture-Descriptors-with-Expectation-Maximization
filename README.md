@@ -16,18 +16,27 @@ Inline image 1.
 Short Form Algorithm:
 
 1.Load Image ->
+
 2. Apply Gaussian Filter and Convert to CIELAB space as it better approximates human color perception ->
-3. Capture texture information using Local Binary Patterns a
+
+3. Capture texture information using Local Binary Patterns
+
 4. Flatten Image (and  to prepare data -> 
+
 5. Normalise and scale data -> 
+
 6. Sample 1000 data points randomly and feed to estimator -> Run expectation and maximization step alternatively using these data points, using scikit GMM and DPGMM.
+
 7. Fit model on entire Image
+
 8. Grab output labels & assign each pixel a color corresponding to its membership class ->
+
 9. Use a dictionary of BGR color codes to query pixel color based on labels. ->
 
-Future Algorithm Extension (given more time):
+Future Algorithm Extension:
 
 1. Use geometric priors to constrain clustering and improve segmentation results. (Intuition = Closer Objects are More Similar in texture and color)
+
 2. Optimise Code
 
 Conclusion:
