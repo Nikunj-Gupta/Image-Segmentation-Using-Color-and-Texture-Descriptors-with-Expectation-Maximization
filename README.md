@@ -15,7 +15,7 @@ Bayesian Gaussian Mixture Done in 0.116s. <==~in this range always
 
 Short Form Algorithm:
 
-1.Load Image
+1. Load Image
 
 2. Apply Gaussian Filter and Convert to CIELAB space as it better approximates human color perception
 
