@@ -38,6 +38,9 @@ Future Algorithm Extension:
 
 2. Optimise Code
 
+Input :
+
+Example Image ![alt text](Example_Fruits.png)
 Results :
 
 1. Color Data Distribution ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png)
