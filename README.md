@@ -42,8 +42,8 @@ Results :
 
 1. Color Data Distribution ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png)
 2. Color + Texture Data Distribution ![alt text](images/JointTextureColorDistribution_GMMTop_DPGMMBottom.png )
-3. Segmentation (Only Color) ![alt text](images/Results_OnlyColor.png")
-4. Segmentation (Texture + Color) ![alt text](images/Results_JointTextureColor.png")
+3. Segmentation (Only Color) ![alt text](images/Results_OnlyColor.png)
+4. Segmentation (Texture + Color) ![alt text](images/Results_JointTextureColor.png)
 
 Conclusion:
 
