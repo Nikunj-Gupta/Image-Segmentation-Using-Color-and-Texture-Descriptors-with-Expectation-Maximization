@@ -10,27 +10,28 @@ Therefore, I have decided to take the approach of modelling the image data distr
 Example Duration for Train Step : 
 
 Gaussian Mixture Done in 0.041s.<== ~in this range always
+&
 Bayesian Gaussian Mixture Done in 0.116s. <==~in this range always
 
 Short Form Algorithm:
 
-1.Load Image ->
+1.Load Image
 
-2. Apply Gaussian Filter and Convert to CIELAB space as it better approximates human color perception ->
+2. Apply Gaussian Filter and Convert to CIELAB space as it better approximates human color perception
 
 3. Capture texture information using Local Binary Patterns
 
-4. Flatten Image (and  to prepare data -> 
+4. Flatten Image (and  to prepare data
 
-5. Normalise and scale data -> 
+5. Normalise and scale data
 
 6. Sample 1000 data points randomly and feed to estimator -> Run expectation and maximization step alternatively using these data points, using scikit GMM and DPGMM.
 
 7. Fit model on entire Image
 
-8. Grab output labels & assign each pixel a color corresponding to its membership class ->
+8. Grab output labels & assign each pixel a color corresponding to its membership class
 
-9. Use a dictionary of BGR color codes to query pixel color based on labels. ->
+9. Use a dictionary of BGR color codes to query pixel color based on labels.
 
 Future Algorithm Extension:
 
@@ -40,7 +41,7 @@ Future Algorithm Extension:
 
 Input :
 
-Example Image ![alt text](Example_Fruits.jpg)
+Example Train/Test Image ![alt text](Example_Fruits.jpg)
 
 Results :
 
