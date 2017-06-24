@@ -12,7 +12,6 @@ Example Duration for Train Step :
 Gaussian Mixture Done in 0.041s.<== ~in this range always
 Bayesian Gaussian Mixture Done in 0.116s. <==~in this range always
 
-Inline image 1. 
 Short Form Algorithm:
 
 1.Load Image ->
