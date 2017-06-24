@@ -40,7 +40,8 @@ Future Algorithm Extension:
 
 Input :
 
-Example Image ![alt text](Example_Fruits.png)
+Example Image ![alt text](Example_Fruits.jpg)
+
 Results :
 
 1. Color Data Distribution ![alt text](images/ColorData_Distribution_GMMTop_DPGMMBottom.png)
